@@ -1,7 +1,9 @@
 # Notes from the GDI Indy Ruby Class
 Updates 11/6/2015 4:39pm EST
 
-Below is a list of resources that were either shared during class or by the suggestions of others. Please feel free to submit a pull request if you have additions, or you can just email me - kyle.keesling at gmail
+Below is a list of resources that were either shared during class or by the suggestions of others. 
+
+Please feel free to submit a pull request if you have additions, or you can just email me - kyle.keesling at gmail
 
 ## Learning Resources
 - [Ruby Glossary - Code Academy](https://www.codecademy.com/articles/glossary-ruby)
