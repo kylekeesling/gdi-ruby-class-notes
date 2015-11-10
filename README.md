@@ -1,5 +1,4 @@
 # Notes from the GDI Indy Ruby Class
-Updates 11/6/2015 4:39pm EST
 
 Below is a list of resources that were either shared during class or by the suggestions of others. 
 
