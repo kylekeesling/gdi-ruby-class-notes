@@ -30,6 +30,10 @@ Please feel free to submit a pull request if you have additions, or you can just
 - [English Numbers](https://gist.github.com/kylekeesling/4b73a984421f120312de) - Output numbers into english words
 - [Wedding Numbers](https://gist.github.com/kylekeesling/a0c60a2aa0aee28f9189) - Outputs numbers as words with proper conjunctions - like you'd see on a wedding invite
 
+## Class 5 Project
+-[My Adventure Game](https://github.com/kylekeesling/adventure) - my crack at the exercise from Class 5
+
+
 ## Text Editors
 - [Brackets](http://brackets.io)
 - [Atom](https://atom.io)
