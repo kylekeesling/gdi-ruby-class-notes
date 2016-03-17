@@ -18,7 +18,7 @@ Please feel free to submit a pull request if you have additions, or you can just
 - [pets.rb](https://gist.github.com/kylekeesling/91e500b05dec24d4b552) - Working w/ Complex Hashes
 - [Numbers Divisble by 7](https://gist.github.com/kylekeesling/4523d06719e6284cc80f) - List all of the numbers between 1 and 1000 that are divisble by 7
 - [Dog Years](https://gist.github.com/kylekeesling/5df807dc976a726e589e) - Calculate how old you are in dog years
-- [Birthday Calculator](https://gist.github.com/bsjohnson/cab2d61107a21dce0b50) - Calculate how many years, months, days, and seconds it's been since your birthday
+- [Birthday Calculator](https://gist.github.com/kylekeesling/5de85d4bff57cefbf464) - Calculate how many years, months, days, and seconds it's been since your birthday
 
 ### Class 3 Homework
 - [99 Bottles of Beer](https://gist.github.com/kylekeesling/e70e9c69eb87c42ed99f) - Take out down and pass it around
