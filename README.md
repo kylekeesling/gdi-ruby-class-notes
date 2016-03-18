@@ -25,7 +25,8 @@ Please feel free to submit a pull request if you have additions, or you can just
 - [Deaf Grandma](https://gist.github.com/kylekeesling/1a255ebe6505823c5a83) - What'd you say there sonny?
 - [Leap Year Calculator](https://gist.github.com/kylekeesling/26ab35c7ed15f04bb343) - Outputs how many and what years were leap years inbetween 2 years provided by user input
 
-### Class 4 Homework
+### Class 4 Homework & Class Code
+- [cookie.rb](https://gist.github.com/kylekeesling/4806789fda6f83a5a47e) - The cookie class we built in Class #4
 - [Fancy 99 Bottles of Beer](https://gist.github.com/kylekeesling/e15e9b8bee26a53ac57d) - Take out down and pass it around... with your pinky up of course
 - [English Numbers](https://gist.github.com/kylekeesling/4b73a984421f120312de) - Output numbers into english words
 - [Wedding Numbers](https://gist.github.com/kylekeesling/a0c60a2aa0aee28f9189) - Outputs numbers as words with proper conjunctions - like you'd see on a wedding invite
